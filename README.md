@@ -27,10 +27,15 @@ androidsensoroverview-main/
 
 ##  Requirements
 JDK 17
+
 Gradle
+
 Android Studio
+
 ADB (Android Debug Bridge)
+
 Android SDK
+
 Real Android device (e.g., Samsung Galaxy A15)
 
 
@@ -108,11 +113,14 @@ Screenshot from device:
 
 4. Parkinson biomarker
 5. The following sensors are especially relevant:
+   
 Accelerometer (LIS2DLC12) – Tremor detection, bradykinesia
+
 Step Detector / Counter – Gait analysis
+
 Motion Sensor – General movement monitoring
 
 
-See Photos attached. :) 
+### See Photos attached. :) 
 ---
 by Sarah Deckarm, 2025
