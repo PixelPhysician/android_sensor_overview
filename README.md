@@ -111,13 +111,17 @@ Samsung Galaxy A15
 
 
 4. Parkinson biomarker
+   
 The following sensors are especially relevant:
+
    
 Accelerometer (LIS2DLC12) – Tremor detection, bradykinesia
 
 Step Detector / Counter – Gait analysis
 
 Motion Sensor – General movement monitoring
+
+
 
 
 See the attached screenshot from device
